@@ -1,0 +1,1 @@
+//GENERATED BARREL FILEexport './views/splash_screen.dart';
