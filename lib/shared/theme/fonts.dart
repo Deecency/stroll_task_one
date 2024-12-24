@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class ScrollFont {
+class StrollFont {
   static TextStyle get w700 => const TextStyle(
         fontFamily: 'Proxima Nova',
         //color: WynkColors.blackGrey,

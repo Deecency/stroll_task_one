@@ -1,1 +1,1 @@
-//GENERATED BARREL FILEexport './widgets/page_wrapper.dart';
+//GENERATED BARREL FILEexport './theme/colors.dart';export './theme/fonts.dart';export './widgets/page_wrapper.dart';

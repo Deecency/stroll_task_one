@@ -1,7 +1,11 @@
 import 'package:flutter/material.dart';
 
-class WynkColors {
-  static const Color primaryBlue = Color(0xff211E8A);
+class StrollColors {
+  static const Color primaryPurple = Color(0xff8B88EF);
+  static const Color primaryPurpleLight = Color(0xffCCC8FF);
+  static const Color primaryPurpleLighter = Color(0xffCBC9FF);
+  static const Color grey800 = Color(0xff0F1115);
+  static const Color grey400 = Color(0xff6F6E7C);
   static const Color darkBlue = Color(0xff0E0E24);
   static const Color skyBlue = Color.fromRGBO(92, 114, 207, 1);
   static const Color lightBlue = Color(0xff9996E8);
