@@ -19,6 +19,7 @@ class MyApp extends StatelessWidget {
         designSize: const Size(375, 812),
         minTextAdapt: true,
         splitScreenMode: true,
+        ensureScreenSize: true,
         child: const SplashScreen(),
         builder: (context, child) {
           return MaterialApp(
